@@ -1,9 +1,8 @@
 import About from "./components/About"
 import Contact from "./components/Contact"
-<<<<<<< HEAD
+
 import Footer from "./components/Footer"
-=======
->>>>>>> 3dc801278f60456a60b5631822a52aaa501844dd
+
 import Header from "./components/Header"
 import Projects from "./components/Projects"
 import Testimonials from "./components/Testimonials"
@@ -21,10 +20,8 @@ const App = () => {
       <Projects/>
       <Testimonials/>
       <Contact/>
-<<<<<<< HEAD
       <Footer/>
-=======
->>>>>>> 3dc801278f60456a60b5631822a52aaa501844dd
+
       </div>
   )
 }
